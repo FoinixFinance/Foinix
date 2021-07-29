@@ -133,7 +133,7 @@ Unfortunately this seems to be a common issue on the chain lately. Try increasin
 What is Foinix’s Roadmap?
 ================================================
 
-Please view our roadmap on notion: http://bit.ly/bunny_roadmap
+Please view our roadmap on notion: https://cutt.ly/oQpAr20
 We have plans on expanding the variety of pools available, creating single asset vaults, arbitrage, and much more!
 
 Who is behind Foinix?
