@@ -121,12 +121,6 @@ How is the profit calculated?
 
 At the moment of withdrawal (exit & claim) the performance fee is exactly calculated (30% of profits) and FOINIX is rewarded.
 
-Is there slippage using the ZAP function?
-================================================
-
-ZAP is based on PancakeSwap’s swap feature so we can’t control the slippage/IL associated with it.
-
-Why is my TVL or Deposit showing 0?
 ================================================
 
 If you see 0 tvl or 0 deposit just try refreshing your browser and reconnecting your wallet.
